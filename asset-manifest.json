@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scamp-project/static/css/main.e8bc336c.chunk.css",
+    "main.js": "/scamp-project/static/js/main.9bb2aaaf.chunk.js",
+    "main.js.map": "/scamp-project/static/js/main.9bb2aaaf.chunk.js.map",
+    "runtime-main.js": "/scamp-project/static/js/runtime-main.3f228662.js",
+    "runtime-main.js.map": "/scamp-project/static/js/runtime-main.3f228662.js.map",
+    "static/js/2.e1075850.chunk.js": "/scamp-project/static/js/2.e1075850.chunk.js",
+    "static/js/2.e1075850.chunk.js.map": "/scamp-project/static/js/2.e1075850.chunk.js.map",
+    "index.html": "/scamp-project/index.html",
+    "precache-manifest.289fd60759b16d75a1ef5b55b59988c9.js": "/scamp-project/precache-manifest.289fd60759b16d75a1ef5b55b59988c9.js",
+    "service-worker.js": "/scamp-project/service-worker.js",
+    "static/css/main.e8bc336c.chunk.css.map": "/scamp-project/static/css/main.e8bc336c.chunk.css.map",
+    "static/js/2.e1075850.chunk.js.LICENSE.txt": "/scamp-project/static/js/2.e1075850.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f228662.js",
+    "static/js/2.e1075850.chunk.js",
+    "static/css/main.e8bc336c.chunk.css",
+    "static/js/main.9bb2aaaf.chunk.js"
+  ]
+}
